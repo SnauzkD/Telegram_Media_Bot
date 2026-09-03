@@ -40,15 +40,15 @@ A Telegram media downloader built with Python.
 
 ## Architecture
 
-Telegram
-    ↓
-Handlers
-    ↓
-Services
-    ↓
-Downloaders / Processors
-    ↓
-SQLite
+-Telegram
+-    ↓
+-Handlers
+-    ↓
+-Services
+-    ↓
+-Downloaders / Processors
+-    ↓
+- SQLite
 
 ## Demo
 
