@@ -52,7 +52,7 @@ SQLite
 
 ## Demo
 
-![demo](download_demo.gif)
+![demo](demo/download_demo.gif)
 
 ## Technical Highlights
 
