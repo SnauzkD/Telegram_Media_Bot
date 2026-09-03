@@ -5,19 +5,19 @@ The Telegram Downloader Bot is organized into separate components, with each com
 ## General Flow
 
 ```text
-Telegram User
-      ↓
-Telegram Handlers
-      ↓
-Request / Business Logic
-      ↓
+Telegram User  
+      ↓  
+Telegram Handlers  
+      ↓  
+Request / Business Logic  
+      ↓  
 ┌──────────────┬──────────────┬──────────────┐
 │ Video        │ Image        │ Audio        │
 │ Downloader   │ Downloader   │ Processing   │
 └──────────────┴──────────────┴──────────────┘
-      ↓
-Media Processing
-      ↓
+      ↓  
+Media Processing  
+      ↓  
 Telegram
 ```
 

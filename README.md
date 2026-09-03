@@ -48,11 +48,11 @@ A Telegram media downloader built with Python.
 -    ↓
 -Downloaders / Processors
 -    ↓
-- SQLite
+SQLite
 
 ## Demo
 
-[demo/download_demo.gif]
+![demo](download_demo.gif)
 
 ## Technical Highlights
 
