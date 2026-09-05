@@ -68,4 +68,6 @@ Premium subscriptions are handled through Telegram Stars.
 
 ## Commercial Version
 
-The complete source code is available separately.
+The complete source code is available separately on Gumroad link is below .
+
+Link:http://shokhhhh.gumroad.com
